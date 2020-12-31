@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13afe4b4.chunk.css",
+    "main.js": "/static/js/main.601c38df.chunk.js",
+    "main.js.map": "/static/js/main.601c38df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b611ebcd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b611ebcd.js.map",
+    "static/css/2.db99697f.chunk.css": "/static/css/2.db99697f.chunk.css",
+    "static/js/2.0fdd9cb7.chunk.js": "/static/js/2.0fdd9cb7.chunk.js",
+    "static/js/2.0fdd9cb7.chunk.js.map": "/static/js/2.0fdd9cb7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.db99697f.chunk.css.map": "/static/css/2.db99697f.chunk.css.map",
+    "static/css/main.13afe4b4.chunk.css.map": "/static/css/main.13afe4b4.chunk.css.map",
+    "static/js/2.0fdd9cb7.chunk.js.LICENSE.txt": "/static/js/2.0fdd9cb7.chunk.js.LICENSE.txt",
+    "static/media/2.1eda18ae.png": "/static/media/2.1eda18ae.png",
+    "static/media/AppStore.1d45d303.png": "/static/media/AppStore.1d45d303.png",
+    "static/media/BillingPage.f5ecb150.png": "/static/media/BillingPage.f5ecb150.png",
+    "static/media/Capture.246226ef.PNG": "/static/media/Capture.246226ef.PNG",
+    "static/media/SoConnect_ROUNDED.a0b102e3.png": "/static/media/SoConnect_ROUNDED.a0b102e3.png",
+    "static/media/card.5b889364.png": "/static/media/card.5b889364.png",
+    "static/media/BillingInfo.css": "/static/media/lock-gray.cce5c6a3.png",
+    "static/media/logo.f45087b5.png": "/static/media/logo.f45087b5.png",
+    "static/media/print.99744abd.png": "/static/media/print.99744abd.png",
+    "static/media/SignUp.css": "/static/media/web.ad8c8512.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b611ebcd.js",
+    "static/css/2.db99697f.chunk.css",
+    "static/js/2.0fdd9cb7.chunk.js",
+    "static/css/main.13afe4b4.chunk.css",
+    "static/js/main.601c38df.chunk.js"
+  ]
+}
